@@ -1,0 +1,44 @@
+.update-note{
+    color: rgb(5, 95, 17);
+    
+}
+.row{
+   border: none;    
+}
+.card{
+    width: 28rem;
+    height: 28rem;
+}
+.all-notes{
+    background-image: url('../Images/card1.jpg');
+}
+
+.all-title, .all-content{
+    color: rgb(8, 8, 8);   
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.card-header{
+    font-style: oblique;
+    font-weight: 900;
+    
+}
+
+
+
+.border-success{
+max-width: 18rem;
+}
+   
+.homeBtn{ 
+    margin-bottom: 3%;  
+    color: rgb(255, 255, 255);
+    background-color: rgb(184, 43, 8);    
+    border-radius: 5px;
+    /* font-weight: bold; */
+    font-size: 25px;
+    width: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* margin-top: 10%; */
+    
+}
